@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: wisecow
-          image: <your-container-registry>/wisecow-app:latest
+          image: 246eedd7ea8b7e9cb52a24de7323bdf0db67708f44fcec9eb76901c459035cd0/wisecow-app:latest
           ports:
             - containerPort: 80
